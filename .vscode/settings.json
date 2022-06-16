@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.turbo": true,
+        "**/storybook-static": true
+    },
+    "search.exclude": {
+        "**/.turbo": true,
+        "**/dist": true,
+        "**/storybook-static": true
+    }
+}
