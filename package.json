@@ -1,5 +1,5 @@
 {
-  "name": "@rrios-dev/ui-kit",
+  "name": "@rrios-dev/monorepo",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
